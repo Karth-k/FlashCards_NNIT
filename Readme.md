@@ -14,11 +14,13 @@ A simple Node.js and MongoDB backend that lets you create flashcards for student
 ## Installation
 
 ```bash
-git clone https://github.com/Karth-k/FlashCard_NNIT.git
+git clone https://github.com/Karth-k/FlashCards_NNIT.git
 cd FlashCard_NNIT
 npm install
 ```
 
 ## Run the Application
 
--npm run start
+```bash
+npm run start
+```
